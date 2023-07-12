@@ -19,7 +19,7 @@ export default {
 
 export const Primary = {
   args: {
-    variant: "Primary",
+    variant: "primary",
     size: "small",
     children: "Button",
   },
@@ -27,7 +27,7 @@ export const Primary = {
 
 export const Secondary = {
   args: {
-    variant: "Secondary",
+    variant: "secondary",
     size: "small",
     children: "Button",
   },
